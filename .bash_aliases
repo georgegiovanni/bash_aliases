@@ -1,0 +1,10 @@
+alias g='git'
+alias gr='grep'
+alias h='history'
+alias l='ls -lhF'
+alias la='ls -lahF'
+alias le='less'
+alias lt='ls -ltrhF'
+alias p='python3'
+alias v='vim'
+
